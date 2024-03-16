@@ -18,7 +18,7 @@ This is an implementation of a basic HashMap data structure written in C. HashMa
 
 ## Example Use
 
-```
+```C
 int main(void) {
   int size = 100;
   struct HashMap *hashmap = newHashMap(size);
